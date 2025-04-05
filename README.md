@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cacm.acm.org/system/assets/0004/5297/041423_Glenn_Harvey_Chatgpt.large.gif?1681495298&1681495297">
 - 🌱 I’m currently learning ML, SQL.
 
-- 💬 Ask me about **ML,ROS**
+- 💬 Ask me about **ML,ROS,Computer Vision**
   
 - 📫 How to reach me **naveenmooram111@gmail.com**
 
